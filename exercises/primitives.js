@@ -8,7 +8,7 @@
  */
 
 // Your code :
-
+const str = "1337";
 
 //* Begin of tests
 const assert = require('assert')
