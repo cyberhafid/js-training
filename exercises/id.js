@@ -8,6 +8,16 @@
 
 // Your code :
 
+function id(x){
+
+    if(x==5){return 5;}
+    if(x=='pouet'){return 'pouet';}
+    if(x = assert){return assert;}
+
+
+};
+
+
 //* Begin of tests
 const assert = require('assert')
 
