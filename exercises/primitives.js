@@ -8,7 +8,7 @@
  */
 
 // Your code :
-const str = "1337";
+
 
 const str = "1337";
 const num = 42;
