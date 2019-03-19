@@ -10,7 +10,7 @@
 
 const arr=[4,'2'];
 
-//* Begin of tests
+//* Begin of tests alors ca fonction c'est super
 const assert = require('assert')
 
 assert.strictEqual(Array.isArray(arr), true)
