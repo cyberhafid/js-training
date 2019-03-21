@@ -8,7 +8,11 @@
  */
 
 // Your code :
+function sameSign(x, y){
+if (x<=y) || 
+return (x<=y);
 
+}
 //* Begin of tests
 const assert = require('assert')
 

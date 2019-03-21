@@ -9,8 +9,16 @@
 
 // Your code :
 
+
+function getLength(arr) {
+    var arr= arr.length;
+    return (arr);
+
+  }
+  
+
 //* Begin of tests
-const assert = require('assert')
+const assert = require('assert') 
 
 assert.strictEqual(getLength([ 2, 42 ]), 2)
 assert.strictEqual(getLength([ 'pouet', 4, true ]), 3)

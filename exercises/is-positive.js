@@ -8,7 +8,10 @@
  */
 
 // Your code:
+function isPositive(chif){
 
+return (chif > 0);
+}
 
 //* Begin of tests
 const assert = require('assert')

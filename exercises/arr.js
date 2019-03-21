@@ -8,7 +8,8 @@
 
 // Your code :
 
-const arr=[4,'2'];
+var arr= [4,'2'];
+
 
 //* Begin of tests alors ca fonction c'est super
 const assert = require('assert')
