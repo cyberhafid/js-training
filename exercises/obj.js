@@ -8,6 +8,11 @@
  */
 
 // Your code :
+const obj = Object();
+ obj.str ='1337';
+ obj.num = 42; 
+ obj.bool = false;
+ obj.undef = undefined;
 
 const obj = Object();
 obj.str = "1337";

@@ -8,6 +8,16 @@
  */
 
 // Your code :
+var circular = new Object();
+
+circular.circular = circular;
+circular.circular.circular = circular;
+circular.circular.circular.circular = circular;
+circular.circular.circular.circular.circular = circular;
+
+
+
+
 
 const circular = Object();
 

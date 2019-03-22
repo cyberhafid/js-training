@@ -8,15 +8,11 @@
 
 // Your code :
 
-function id(x){
+function id(x) {
+    
+    return (x);
 
-    if(x==5){return 5;}
-    if(x=='pouet'){return 'pouet';}
-    if(x = assert){return assert;}
-
-
-};
-
+}
 
 //* Begin of tests
 const assert = require('assert')
