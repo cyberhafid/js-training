@@ -13,10 +13,6 @@ const num = 42;
 const bool = false;
 const undef = undefined;
 
-const str = "1337";
-const num = 42;
-const bool = false;
-const undef = undefined;
 
 
 //* Begin of tests

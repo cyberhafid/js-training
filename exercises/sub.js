@@ -7,15 +7,11 @@
  */
 
 // Your code :
-<<<<<<< HEAD
 
 function  sub(x,y){
     return (x-y);
-=======
-function sub (x, y){
-return (x-y);
->>>>>>> 8ddde5ca6a0e12445ee1fef8013cc29b35cc3e75
 }
+
 //* Begin of tests
 const assert = require('assert')
 const rand = Math.random()

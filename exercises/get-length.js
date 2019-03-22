@@ -9,20 +9,10 @@
 
 // Your code :
 
-<<<<<<< HEAD
  function getLength(arr){
 return arr.length
 
  }
-=======
-
-function getLength(arr) {
-    var arr= arr.length;
-    return (arr);
-
-  }
-  
->>>>>>> 8ddde5ca6a0e12445ee1fef8013cc29b35cc3e75
 
 //* Begin of tests
 const assert = require('assert') 

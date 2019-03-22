@@ -5,8 +5,16 @@
  * and return the total
  *
  */
+function total(arr){
+    let tot=0 ;
+for (let i=0; i <arr.length; i++){
+    
+   tot += arr[i];
 
-
+}
+return (tot);
+}
+//total([ 1, 1, 1]);
 //* Begin of tests
 const assert = require('assert')
 

@@ -8,7 +8,7 @@
  */
 
 // Your code:
-function isPositive(chif){
+
 
  function isPositive(numb){
   return  (numb > 0);

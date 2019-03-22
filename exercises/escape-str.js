@@ -10,7 +10,6 @@
 // Your code :
 const escapeStr = ('\' \" \` / \\');
 
-const escapeStr = ' \' \" \` / \\ ';
 //* Begin of tests
 const assert = require('assert')
 
