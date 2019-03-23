@@ -20,7 +20,7 @@ return (true);
 
 }
 }
-console.log(sameSign(-231, 1));
+//console.log(sameSign(-231, 1));
 
 //* Begin of tests
 const assert = require('assert')
