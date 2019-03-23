@@ -9,7 +9,7 @@
 // Your code :
 
 function  sub(x,y){
-    return (x-y);
+    return (x-y)
 }
 
 //* Begin of tests
