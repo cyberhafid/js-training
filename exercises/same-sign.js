@@ -9,18 +9,15 @@
 
 // Your code :
 function sameSign(x, y){
-x=Math.sign(x);
-y=Math.sign(y);
-
-
+x=Math.sign(x)
+y=Math.sign(y)
 if (x===y){
-return (true);
+return (true)
 }else{
-    return (false);
+return (false)
+}
+}
 
-}
-}
-//console.log(sameSign(-231, 1));
 
 //* Begin of tests
 const assert = require('assert')
