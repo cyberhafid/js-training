@@ -9,10 +9,10 @@ function total(arr){
     let tot=0 ;
 for (let i=0; i <arr.length; i++){
     
-   tot += arr[i];
+   tot += arr[i]
 
 }
-return (tot);
+return (tot)
 }
 //total([ 1, 1, 1]);
 //* Begin of tests

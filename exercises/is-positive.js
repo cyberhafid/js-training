@@ -11,7 +11,7 @@
 
 
  function isPositive(numb){
-  return  (numb > 0);
+  return  (numb > 0)
  }
 
 

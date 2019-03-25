@@ -7,13 +7,12 @@
  * @notions Data-Structures, Get
  */
 
-// Your code :
-function getLast(arr){
 
-    return(arr[arr.length]);
 
+function getLast(x){
+
+    return(x[x.length-1])
 }
-
 
 //* Begin of tests
 const assert = require('assert')
